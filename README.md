@@ -24,7 +24,7 @@ pip install requests
 
 ```json
 {
-  "source_url": "https://your-domain.com/source.json"
+  "source_url": "https://polymorph-distribution.netlify.app/source.json"
 }
 ```
 
@@ -44,7 +44,7 @@ python altstore_publisher.py
 
 ## ファイル構成
 
-* `main.py`: 実行用メインスクリプト
+* `altstore_publisher.py`: 実行用メインスクリプト
 * `config.json`: 設定ファイル（URLを記述）
 * `README.md`: このドキュメント
 * `command.txt`: よく使うコマンドのコピペ用
@@ -54,7 +54,7 @@ python altstore_publisher.py
 
 ### source.json
 
-Federation APIにPostするjsonは[AltStudio](https://altstudio.app)で作成する。ただし、`fediUsername`はAltStudioでは追加できないのでテキストエディタで直接編集する。
+Federation APIにPostするjsonは[AltStudio](https://altstudio.app)で作成します。ただし、`fediUsername`はAltStudioでは追加できないのでテキストエディタで直接編集します。
 
 ### IPAファイルとjsonのホスティング
 
