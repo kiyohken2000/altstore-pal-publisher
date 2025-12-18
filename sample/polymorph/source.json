@@ -4,7 +4,6 @@
   "description": "#安倍晋三エクスプローラー #ガチ有能AI助手 and more | Mobile app Developer | React, React Native, GatsbyJS, Flutter, Python | PC DIY",
   "iconURL": "https://pbs.twimg.com/profile_images/1197638346517835776/fItoyeTR_400x400.jpg",
   "website": "https://shirakura.site",
-  "fediUsername": "@kiyohken2000@mstdn.guru",
   "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
@@ -28,12 +27,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://polymorph-distribution.netlify.app/1.0.4/application-8e3b4e41-cb70-4428-ab24-e65cb25575df.ipa",
-          "size": 44400000,
           "version": "1.0.4",
-          "buildVersion": null,
           "date": "2025-12-18T15:50:00+09:00",
           "localizedDescription": null,
+          "downloadURL": "https://polymorph-distribution.netlify.app/1.0.4/application-8e3b4e41-cb70-4428-ab24-e65cb25575df.ipa",
+          "size": 44400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -47,5 +46,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "リリースしました",
+      "identifier": "news_0in3zcuh99",
+      "caption": "React Native × Three.jsで作る！触って楽しい3D多面体アプリ",
+      "date": "2025-12-19T01:52",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://capsaicin.site/blog/2025-12-09",
+      "appID": "net.votepurchase.polymorph"
+    }
+  ]
 }
