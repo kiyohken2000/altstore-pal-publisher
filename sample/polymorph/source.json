@@ -46,17 +46,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "リリースしました",
-      "identifier": "news_0in3zcuh99",
-      "caption": "React Native × Three.jsで作る！触って楽しい3D多面体アプリ",
-      "date": "2025-12-19T01:52",
-      "tintColor": "#6156e2",
-      "imageURL": "",
-      "notify": true,
-      "url": "https://capsaicin.site/blog/2025-12-09",
-      "appID": "net.votepurchase.polymorph"
-    }
-  ]
+  "news": []
 }
