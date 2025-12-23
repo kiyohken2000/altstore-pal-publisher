@@ -4,7 +4,6 @@
   "description": "#安倍晋三エクスプローラー #ガチ有能AI助手 and more | Mobile app Developer | React, React Native, GatsbyJS, Flutter, Python | PC DIY",
   "iconURL": "https://pbs.twimg.com/profile_images/1197638346517835776/fItoyeTR_400x400.jpg",
   "website": "https://shirakura.site",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "net.votepurchase.polymorph"
@@ -29,11 +28,11 @@
         {
           "version": "1.0.4",
           "date": "2025-12-18T15:50:00+09:00",
-          "localizedDescription": null,
+          "localizedDescription": "Initial release",
           "downloadURL": "https://polymorph-distribution.netlify.app/1.0.4/application-8e3b4e41-cb70-4428-ab24-e65cb25575df.ipa",
           "size": 44400000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "1",
+          "minOSVersion": "13.0"
         }
       ],
       "appPermissions": {
@@ -42,8 +41,7 @@
           "NSPhotoLibraryUsageDescription": "Use the photo library to change your avatar.",
           "NSMicrophoneUsageDescription": "Allow PolyMorph to access your microphone"
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
