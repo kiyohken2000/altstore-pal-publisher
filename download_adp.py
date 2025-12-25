@@ -2,14 +2,14 @@ import requests
 import json
 
 def load_config():
-    with open('config.json', 'r') as f:
+    with open('configure.json', 'r') as f:
         return json.load(f)
 
 def download_adp():
     config = load_config()
 
     if not config.get("adp_id"):
-        print("エラー: config.json に adp_id を設定してください")
+        print("エラー: configure.json に adp_id を設定してください")
         return
 
     adp_id = config["adp_id"]
